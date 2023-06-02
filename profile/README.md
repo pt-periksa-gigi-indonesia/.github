@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="example_logo-removebg-preview.png" width="500" />
+	<img src="https://github.com/Nusantara-Team-Bangkit-Capstone/.github/blob/c5eb412398e3241fb3e5a953a6d36c834da6dce5/profile/example_logo-removebg-preview.png" width="500" />
 	<h3 align="center">Tooth Fairy</h3>
 	<p align="center">
 		An awesome README template to jumpstart your projects!
