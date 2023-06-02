@@ -1,6 +1,6 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/ic_launcher-playstore.png" width="256" />
-	<h3 align="center">Recoffeery</h3>
+	<img src="example_logo-removebg-preview.png" width="500" />
+	<h3 align="center">Tooth Fairy</h3>
 	<p align="center">
 		An awesome README template to jumpstart your projects!
 		<br />
