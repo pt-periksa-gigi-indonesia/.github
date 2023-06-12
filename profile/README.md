@@ -59,13 +59,11 @@ Notes: Any other version could've worked this in only recommendation.
 
 ### B. Steps
 1. Open your **cmd** or **gitbash** on predetermined install location.
-
 2. Clone repository
+
    ```bash
     git clone https://github.com/Nusantara-Team-Bangkit-Capstone/nst-mobile.git
    ```
 3. Open your project on Android Studio.
-
 4. Start your emulator or android smartphone.
-
 5. Click Run "App".
