@@ -1,6 +1,6 @@
 <div>
 	<div align="center">
-	<img src="https://github.com/Nusantara-Team-Bangkit-Capstone/nst-mobile/blob/0df3dc73c9a1c4b9c1b5a9685e498743072f5a57/app/src/main/res/drawable/PerigigiApps.png" width="500" />
+	<img src="https://github.com/Nusantara-Team-Bangkit-Capstone/.github/blob/0fda69f08b5a88afd0713ab6dae1f1b7843f1128/profile/LOGO_PNG-02.png" width="500" />
 	</div>
 	<h3 align="center">GoDentist</h3>
 	<p align="left">
@@ -11,6 +11,8 @@ Our app offers a unique online virtual teeth checkup using state-of-the-art mach
 Additionally, our app enables seamless online consultations with experienced dentists. If you have any concerns or questions about your dental well-being, you can easily schedule a virtual appointment with a certified dentist through the app. Enjoy the convenience of discussing your dental issues with a professional from the comfort of your home, without the hassle of commuting or time-consuming waiting periods.
 	</p>
 </div>
+
+## The Founders 👨🏻‍💼👩🏻‍💼
 
 |Name|University|LinkedIn
 |--|--|--
